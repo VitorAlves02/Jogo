@@ -1,6 +1,10 @@
 # Jogo
 
-<h3>Desenvolvido utilizando p5.js durante a Imersão Game Dev da Alura</h3>
+<h3>Desenvolvido utilizando p5.js durante a Imersão Game Dev da Alura.</h3>
+<br>
+<br>
+
+# Imagens do jogo:
 
 <br>
 
